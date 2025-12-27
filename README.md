@@ -17,7 +17,8 @@ My Claude Code settings, agents, and project configurations.
 └── projects/                  # Project-specific CLAUDE.md files
     ├── Autonomous-coding-CLAUDE.md
     ├── Email-replier-CLAUDE.md
-    └── KaiSign-Extension-CLAUDE.md
+    ├── KaiSign-Extension-CLAUDE.md
+    └── Snaps-erc7730-CLAUDE.md
 ```
 
 ## Installation
